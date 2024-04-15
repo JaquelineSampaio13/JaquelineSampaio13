@@ -1,3 +1,7 @@
+package aulas;
+public class Aula_09 { 
+ pulic static void main(String[] args){
+
 double base ,altura,areaRetangulo;
 
 basae = 10.34;
