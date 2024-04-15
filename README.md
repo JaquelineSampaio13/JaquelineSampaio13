@@ -1,29 +1,27 @@
-string nome;
-int idade;
-double altura;
-double peso;
+using System;
 
-Console.WriteLine("Informe seu nome");
-nome = Console.ReadLine();
+class Program
+{ 
+     static void Main(string[]  args)
+     { 
+          float lado;
+          float area;
+          Console.Write("Informe o comprimento do lado do quadrado: ");
+          lado = float.Parse(Console.ReadLine());
 
-Console.WriteLine("Informe sua idade");
-idade = int.Parse(Console.ReadLine());
+          area = lado * lado;
 
-Console.WriteLine("Informe sua altura");
-altura = double.Parse(Console.ReadLine());
+          Cosole.Write("O comprimento de cada lado é" >= 2 centímetros );
+          area = 2*2;
 
-Console.WriteLine("Informe seu peso");
-peso = double.Parse(Console.ReadLine());
+          Console.WriteLine("A área do quadrado é:  {8} ", area );
 
-Console.WriteLine("Seu nome é");
-nome = Margarida Santana de Mello(Console.ReadLine();
+          
+        
 
-Console.WriteLine("Você tem idade");
-idade >= 28 anos int.Parse(Console.ReadLine());
 
-Console.WriteLine("Você tem altura");
-altura >= 172 centímetros double.Parse(Console.ReadLine());
 
-Console.WriteLine("Você tem peso");
-peso >= 70 kilogramas double.Parse(Console.ReadLine());
+
+
+
 
