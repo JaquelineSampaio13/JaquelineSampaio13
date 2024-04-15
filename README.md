@@ -1,22 +1,17 @@
-using System;
+double base ,altura,areaRetangulo;
 
-class Program
-{ 
-     static void Main(string[]  args)
-     { 
-          float lado;
-          float area;
-          Console.Write("Informe o comprimento do lado do quadrado: ");
-          lado = float.Parse(Console.ReadLine());
+basae = 10.34;
+altura = 20;
+areaRetangulo = base * altura;
 
-          area = lado * lado;
+System.out.println("A area de um retangulode base = " + base);
+System.out.println("e altura " + altura);
+System.out.println("é " + areaRetangulo);
 
-          Cosole.Write("O comprimento de cada lado é" >= 2 centímetros );
-          area = 2*2;
+ }
+}
 
-          Console.WriteLine("A área do quadrado é:  {8} ", area );
 
-          
         
 
 
